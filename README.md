@@ -1,6 +1,6 @@
 # **The Green House**
 
-_A magic place called Home._
+_Humanity: a beautiful kind of capital that grows through Sharing._
 
 ### **Credits**
 
