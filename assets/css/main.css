@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url('https://fonts.googleapis.com/css?family=Maven+Pro');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 @import url('https://fonts.googleapis.com/css?family=Zeyada');
 
 /* Reset */
@@ -287,7 +287,7 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Maven Pro", sans-serif;
+		font-family: "Ubuntu";
 		font-size: 16pt;
 		font-weight: 400;
 		letter-spacing: -0.01em;
@@ -1007,6 +1007,7 @@
 	#header h1 {
 		font-family: 'Zeyada';
 		font-size: 5.00em;
+		letter-spacing: 0.04em;
 		margin: 0 0 0.55em 0;
 	}
 
