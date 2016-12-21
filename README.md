@@ -4,7 +4,7 @@ _Humanity: a beautiful kind of capital that grows through Sharing._
 
 ### **Credits**
 
-> This web page is built with [Jekyll](https://jekyllrb.com) and hosted by :octocat: with love.
+> This web page is built with [Github pages](https://pages.github.com) and hosted by :octocat: with love.
 
 **Theme**:
 [Eventually](https://html5up.net/eventually)
