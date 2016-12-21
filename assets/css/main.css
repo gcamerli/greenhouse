@@ -339,14 +339,13 @@
 		-webkit-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
 		color: #1cb495;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #1cb495 !important;
+			color: #4e5c0f !important;
 			text-decoration: none;
 		}
 
@@ -363,7 +362,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h5, h6 {
 		color: #fff;
 		font-weight: 700;
 		line-height: 1em;
@@ -393,6 +392,8 @@
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
+		text-align: justify;
+		letter-spacing: 0.1em;
 	}
 
 	h5 {
@@ -947,7 +948,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		background-color: #e24828;
+		background-color: #4e5c0f;
 		border-radius: 6px;
 		border: 0;
 		color: #ffffff !important;
@@ -967,7 +968,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #ff512e;
+			background-color: #38420b;
+			color: #1cb495 !important;
 		}
 
 		input[type="submit"]:active,
@@ -975,7 +977,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {ss
-			background-color: #cc4125;
+			background-color: #38420b;
 		}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -1012,8 +1014,9 @@
 	}
 
 	#header p {
-		font-size: 1.10em;
-		line-height: 1.65em;
+		font-size: 1em;
+		line-height: 1.5em;
+		letter-spacing: 0.1em;
 	}
 
 	#header a {
