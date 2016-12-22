@@ -44,7 +44,7 @@
   content: "";
 
   /* Add a bit of padding to give some substance outside the "stitching" */
-  padding: .38em 0;
+  padding: 1.1em 0;
 
   /* Set the base colour */
   background-color: #a00;
@@ -84,7 +84,7 @@
 
   /* Add "stitching" effect */
   border-width: .08em 0;
-  border-style: inset;
+  border-style: none;
   border-color: #ffffff;
   border-color: rgba(255, 255, 255, 0.7);
 }
