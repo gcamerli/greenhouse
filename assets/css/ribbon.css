@@ -71,8 +71,8 @@
 
   /* Set the text properties */
   color: #fff;
-  font: 700 1em Quicksand;
-  line-height: 1.5em;
+  font: 700 0.9em Quicksand;
+  line-height: 3em;
   letter-spacing: 0.2em;
   text-decoration: none;
   text-shadow: 0 -.08em rgba(0, 0, 0, 0.5);
