@@ -1014,7 +1014,7 @@
 	}
 
 	#header p {
-		font-size: 1em;
+		font-size: 0.9em;
 		line-height: 1.5em;
 		letter-spacing: 0.1em;
 	}
@@ -1036,7 +1036,7 @@
 		}
 
 		#header p {
-			font-size: 1em;
+			font-size: 0.9em;
 		}
 
 	}
