@@ -1023,6 +1023,12 @@
 		color: inherit;
 	}
 
+	img.center {
+		display: block;
+		margin: 0 auto;
+		padding-bottom: 3em;
+	}
+
 	@media screen and (max-width: 736px) {
 
 		#header h1 {
