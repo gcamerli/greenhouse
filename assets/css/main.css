@@ -1010,7 +1010,7 @@
 		font-family: 'Zeyada';
 		font-size: 4.00em;
 		letter-spacing: 0.08em;
-		margin: 0 0 0.3em 0;
+		margin: 0 0 0.2em 0;
 	}
 
 	#header p {
@@ -1027,6 +1027,12 @@
 		display: block;
 		margin: 0 auto;
 		padding-bottom: 3em;
+	}
+
+	img.center.main {
+		display: block;
+		margin: 0 auto;
+		padding-bottom: 0em;
 	}
 
 	@media screen and (max-width: 736px) {
