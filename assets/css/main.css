@@ -584,7 +584,7 @@
 /* Form */
 
 	form {
-		margin: 0 0 2em 0;
+		margin: 0 0 3em 0;
 	}
 
 		form .message {
@@ -878,7 +878,7 @@
 				content: '';
 				display: inline-block;
 				height: 1.65em;
-				left: 0;
+				left: 0;form
 				line-height: 1.58125em;
 				position: absolute;
 				text-align: center;
