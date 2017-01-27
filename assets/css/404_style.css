@@ -13,31 +13,25 @@ h1 {
   font-family: Quicksand;
   letter-spacing: 0.1em;
   font-size: 3em;
-
-	color: white;
-
-	text-align: center;
+  color: white;
+  text-align: center;
 }
 
 h2 {
-	font-family: Quicksand;
-	font-weight: bold;
+  font-family: Quicksand;
+  font-weight: bold;
   letter-spacing: 0.2em;
-	font-size: 1.3em;
-
-	color: gray;
-
-	text-align: center;
+  font-size: 1.3em;
+  color: gray;
+  text-align: center;
 }
 
 h3 {
 	font-family: Zeyada;
   letter-spacing: 0.09em;
-	font-size: 15px;
-
-	color: gray;
-
-	text-align: center;
+  font-size: 15px;
+  color: gray;
+  text-align: center;
   border-top: 3em;
 }
 
