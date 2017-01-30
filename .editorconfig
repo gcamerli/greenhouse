@@ -1,16 +1,16 @@
-# EditorConfig is awesome: http://EditorConfig.org
+# EditorConfig is awesome: http://editorconfig.org
 
 root = true
 
 [*]
 end_of_line = lf
-insert_final_newline = true
+insert_final_newline = false
 
 [*.{html,js,scss}]
 charset = utf-8
-indent_style = tab
+indent_style = space
 indent_size = 2
 
 [*.{md,markdown,yml}]
-indent_style = spaces
+indent_style = space
 indent_size = 2
