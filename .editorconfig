@@ -3,14 +3,11 @@
 root = true
 
 [*]
+charset = utf-8
 end_of_line = lf
+indent_style = tab
+indent_size = 2
 insert_final_newline = false
 
-[*.{html,js,scss}]
-charset = utf-8
-indent_style = space
-indent_size = 2
-
-[*.{md,markdown,yml}]
-indent_style = space
-indent_size = 2
+[*.js]
+indent_size = 4
