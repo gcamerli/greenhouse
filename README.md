@@ -23,4 +23,4 @@ This web page is built with [Github pages](https://pages.github.com) and hosted 
 
 ### **CC License**
 
-This work is provided under the terms of this license: [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/)
+This work is provided under the terms of this license: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
