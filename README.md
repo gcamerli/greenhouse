@@ -2,6 +2,8 @@
 
 _Humanity: a beautiful kind of capital that grows through Sharing._
 
+![cilento](images/cilento.jpg)
+
 ### **Description**
 
 [**THEGREENHOUSE**](https://thegreenhouse.online) is a non-profit association, located in [Orria](https://en.wikipedia.org/wiki/Orria) (Salerno, Italy). Its goal is to promote events and formation activities in the cultural and artistic field,
