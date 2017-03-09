@@ -1,1 +1,1 @@
-Sitemap: http://thegreenhouse.online/sitemap.xml
+Sitemap: https://thegreenhouse.online/sitemap.xml
