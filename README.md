@@ -2,7 +2,7 @@
 
 _Humanity: a beautiful kind of capital that grows through Sharing._
 
-![cilento](images/cilento.jpg)
+![cilento](https://cdn.thegreenhouse.online/image/cilento.jpg)
 
 ### **Description**
 
