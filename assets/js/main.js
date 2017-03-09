@@ -33,12 +33,12 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/grotta.jpg': 'center',
-							'images/cilento.jpg': 'center',
-							'images/parco.jpg': 'center',
-							'images/people.jpg': 'center',
-							'images/BDSurLesMurs01.jpg': 'center',
-							'images/BDSurLesMurs02.jpg': 'center',
+							'https://cdn.thegreenhouse.online/image/grotta.jpg': 'center',
+							'https://cdn.thegreenhouse.online/image/cilento.jpg': 'center',
+							'https://cdn.thegreenhouse.online/image/parco.jpg': 'center',
+							'https://cdn.thegreenhouse.online/image/people.jpg': 'center',
+							'https://cdn.thegreenhouse.online/image/BDSurLesMurs01.jpg': 'center',
+							'https://cdn.thegreenhouse.online/image/BDSurLesMurs02.jpg': 'center',
 						},
 
 					// Delay.
