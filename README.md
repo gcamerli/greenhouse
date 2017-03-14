@@ -6,8 +6,6 @@ _Humanity: a beautiful kind of capital that grows through Sharing._
 
 ### **Description**
 
-[associative school](https://singinflower.com) [Cilento](https://en.wikipedia.org/wiki/Cilento).
-
 [**THEGREENHOUSE**](https://thegreenhouse.online) is a non-profit association, located in [**Orria (Salerno)**](https://en.wikipedia.org/wiki/Orria), a beautiful country in the south of Italy inside [**Parco Nazionale del Cilento**](https://en.wikipedia.org/wiki/Parco_Nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni), an [**UNESCO**](http://whc.unesco.org/en/list/842) heritage.
 
 Its goal is to promote [**events**](https://thegreenhouse_aps.eventbrite.com) and **formation activities** in the **cultural** and **artistic field**, to allow the **personal improvement** of the attenders and the **social** and **cultural development** of the [**Cilento**](https://en.wikipedia.org/wiki/Cilento) country.
