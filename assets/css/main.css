@@ -593,7 +593,8 @@ video {
   width: auto;
   height: auto;
   transform: translate(-50%, -50%);
-	background-image: url("https://cdn.thegreenhouse.online/image/parco.jpg");
+	background-image: url("https://cdn.thegreenhouse.online/image/grotta.jpg");
+	opacity: 0.5;
   background-size: cover;
 }
 
