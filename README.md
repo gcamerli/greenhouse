@@ -25,6 +25,9 @@ This web page is built with [Github pages](https://pages.github.com) and hosted 
 + **Icons**:
 [Font Awesome](https://fortawesome.github.com/Font-Awesome)
 
++ **Fonts**:
+[Google Fonts](https://fonts.google.com/)
+
 + **JS**:
 [Skel](http://skel.io)
 
