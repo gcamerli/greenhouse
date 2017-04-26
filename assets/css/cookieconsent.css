@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
 .cc-window {
     opacity: .8;
     transition: opacity 1s ease
@@ -41,8 +43,8 @@
     position: fixed;
     overflow: hidden;
     box-sizing: border-box;
-    font-family: Helvetica, Calibri, Arial, sans-serif;
-    font-size: 16px;
+    font-family: "Ubuntu";
+    font-size: 12px;
     line-height: 1.5em;
     display: -ms-flexbox;
     display: flex;
