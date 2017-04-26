@@ -44,7 +44,8 @@
     overflow: hidden;
     box-sizing: border-box;
     font-family: "Ubuntu";
-    font-size: 12px;
+    font-size: 14px;
+    letter-spacing: 0.01em;
     line-height: 1.5em;
     display: -ms-flexbox;
     display: flex;
