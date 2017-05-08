@@ -13,7 +13,7 @@ Our social world mainly bases its interactions on capitals incapable of regenera
 Most of capital types but money or goods can grow through sharing: the more we give, the more we get. DNA. Hugs. Knowledge. Artistic and human maturity. Culture. Emotions. Friendship. Esteem. Happiness.
 Our first capital is each and every one who has been, who is and who will be inspired by this concept and started to think about, to imagine... to **share our dream**.
 
-[**TheGreenHouse**](https://thegreenhouse.online) is a **cooperative society** of ideas and knowledge, an [**International Study Center**](https://singinflower.com), a place where **sustainable economy** has a real chance, since life quality simply means good food, good atmosphere, good state of mind. Thanks for being here, you’re our first real gain.
+[**TheGreenHouse**](https://thegreenhouse.online) is a **cooperative society** of ideas and knowledge, an [**International Study Center**](https://info.singinflower.org), a place where **sustainable economy** has a real chance, since life quality simply means good food, good atmosphere, good state of mind. Thanks for being here, you’re our first real gain.
 
 ### **Credits**
 
